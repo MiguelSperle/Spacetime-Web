@@ -8,6 +8,6 @@ A aplicação foi desenvolvida em React, utilizando TypeScript, TailwindCSS, Nex
 
 <h2>Portuguese</h2>
 
-<string>Memory Recording Web Page</string>
+<strong>Memory Recording Web Page</strong>
 
 The application was developed in React, using TypeScript, TailwindCSS, Next.js and other libs. it consumes a REST API, that allows, create, register, edit and delete memories.
