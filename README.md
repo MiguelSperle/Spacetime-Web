@@ -1,12 +1,13 @@
 # NLW Spacetime | Rocketseat
 
-<h2>English</h2>
+<h2>Portuguese</h2>
+
 
 <p><strong>Página Web de registro de memórias</strong></p>
 
 A aplicação foi desenvolvida em React, utilizando TypeScript, TailwindCSS, Next.js e outras bibliotecas. Ela consome uma API REST que permite visualizar, cadastrar, editar e excluir memórias.
 
-<h2>Portuguese</h2>
+<h2>English</h2>
 
 <p><strong>Memory Recording Web Page</strong></p>
 
