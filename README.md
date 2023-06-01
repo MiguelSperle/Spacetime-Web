@@ -16,3 +16,11 @@ The application was developed in React, using TypeScript, TailwindCSS, Next.js a
 <img src="https://i.imgur.com/JUNxc77.png"/>
 <img src="https://i.imgur.com/ZCFwDfa.png" />
 <img src="https://i.imgur.com/XStIUQd.png" />
+
+# Remember (English)
+
+If you wanna use this site, you must have the backend installed in your computer, running.
+
+# Lembre (Portuguese)
+
+Se você quer usar este site, você deve ter o backend instalado no seu pc, rodando
