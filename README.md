@@ -15,3 +15,4 @@ The application was developed in React, using TypeScript, TailwindCSS, Next.js a
 
 <img src="https://i.imgur.com/JUNxc77.png"/>
 <img src="https://i.imgur.com/ZCFwDfa.png" />
+<img src="https://i.imgur.com/XStIUQd.png" />
