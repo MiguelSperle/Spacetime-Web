@@ -7,20 +7,23 @@
 
 A aplicação foi desenvolvida em React, utilizando TypeScript, TailwindCSS, Next.js e outras bibliotecas. Ela consome uma API REST que permite visualizar, cadastrar, editar e excluir memórias.
 
+<h2>Lembre</h2>
+
+Se você quer usar este site, você deve ter o backend instalado no seu pc, rodando.
+
 <h2>English</h2>
 
 <p><strong>Memory Recording Web Page</strong></p>
 
 The application was developed in React, using TypeScript, TailwindCSS, Next.js and other libs. it consumes a REST API, that allows, create, register, edit and delete memories.
 
-<img src="https://i.imgur.com/JUNxc77.png"/>
-<img src="https://i.imgur.com/ZCFwDfa.png" />
-<img src="https://i.imgur.com/XStIUQd.png" />
-
 <h2>Remember</h2>
 
 If you wanna use this site, you must have the backend installed in your computer, running.
 
-<h2>Lembre</h2>
+<img src="https://i.imgur.com/JUNxc77.png"/>
+<img src="https://i.imgur.com/ZCFwDfa.png" />
+<img src="https://i.imgur.com/XStIUQd.png" />
 
-Se você quer usar este site, você deve ter o backend instalado no seu pc, rodando.
+
+
