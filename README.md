@@ -17,10 +17,10 @@ The application was developed in React, using TypeScript, TailwindCSS, Next.js a
 <img src="https://i.imgur.com/ZCFwDfa.png" />
 <img src="https://i.imgur.com/XStIUQd.png" />
 
-# Remember (English)
+<h2>Remember (English)</h2>
 
 If you wanna use this site, you must have the backend installed in your computer, running.
 
-# Lembre (Portuguese)
+<h2>Lembre (Portuguese)</h2>
 
-Se você quer usar este site, você deve ter o backend instalado no seu pc, rodando
+Se você quer usar este site, você deve ter o backend instalado no seu pc, rodando.
