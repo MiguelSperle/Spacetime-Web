@@ -14,3 +14,4 @@ A aplicação foi desenvolvida em React, utilizando TypeScript, TailwindCSS, Nex
 The application was developed in React, using TypeScript, TailwindCSS, Next.js and other libs. it consumes a REST API, that allows, create, register, edit and delete memories.
 
 <img src="https://i.imgur.com/JUNxc77.png"/>
+<img src="https://i.imgur.com/ZCFwDfa.png" />
