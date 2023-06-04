@@ -17,7 +17,7 @@ Se você quer usar este site, você deve ter o backend instalado no seu pc, roda
 
 The application was developed in React, using TypeScript, TailwindCSS, Next.js and other libs. it consumes a REST API, that allows, create, register, edit and delete memories.
 
-<h2>File .env on Frontend project</h2>
+<h2>File .env on frontend project</h2>
 
 You must get the client_id of on your Oauth App (web).
 
