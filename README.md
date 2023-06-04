@@ -51,7 +51,7 @@ npm run dev / yarn run dev
 
 <h2>Remember</h2>
 
-If you wanna use this site, you must have the backend installed in your computer, running.
+If you wanna use this site, you must have the backend installed in your computer, running and you must have this reposity installed too.
 
 <img src="https://i.imgur.com/JUNxc77.png"/>
 <img src="https://i.imgur.com/ZCFwDfa.png" />
