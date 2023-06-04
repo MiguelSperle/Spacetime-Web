@@ -26,6 +26,29 @@ You must get the client_id of on your Oauth App (web).
 NEXT_PUBLIC_GITHUB_CLIENT_ID=123456789 ``` This number is example ```
 ```
 
+<h2>How can you clone this project, it's simple</h2>
+
+⌨ Clone the repository
+```
+git clone https://github.com/MiguelSperle/Frontend-web-spacetime.git
+```
+
+📂 Access at folder
+```
+cd Frontend-web-spacetime
+```
+
+📡 install dependencies
+```
+npm install or yarn install
+```
+
+⭐ Start the project
+```
+npm run dev / yarn run dev
+```
+
+
 <h2>Remember</h2>
 
 If you wanna use this site, you must have the backend installed in your computer, running.
