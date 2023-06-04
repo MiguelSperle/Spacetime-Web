@@ -17,6 +17,13 @@ Se você quer usar este site, você deve ter o backend instalado no seu pc, roda
 
 The application was developed in React, using TypeScript, TailwindCSS, Next.js and other libs. it consumes a REST API, that allows, create, register, edit and delete memories.
 
+# File .env on Frontend project
+
+```
+# GITHUB (Web)
+NEXT_PUBLIC_GITHUB_CLIENT_ID=123456789 ``` This number is example ```
+```
+
 <h2>Remember</h2>
 
 If you wanna use this site, you must have the backend installed in your computer, running.
