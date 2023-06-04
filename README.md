@@ -19,6 +19,8 @@ The application was developed in React, using TypeScript, TailwindCSS, Next.js a
 
 <h2>File .env on Frontend project</h2>
 
+You must get the client_id of on your Oauth App (web).
+
 ```
 # GITHUB (Web)
 NEXT_PUBLIC_GITHUB_CLIENT_ID=123456789 ``` This number is example ```
