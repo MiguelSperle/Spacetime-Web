@@ -53,9 +53,10 @@ npm run dev / yarn run dev
 
 If you wanna use this site, you must have the backend installed in your computer, running and you must have this reposity installed too.
 
+
+<h2>Screenshots</h2>
+<div width="100%" align="center">
 <img src="https://i.imgur.com/JUNxc77.png"/>
 <img src="https://i.imgur.com/ZCFwDfa.png" />
 <img src="https://i.imgur.com/XStIUQd.png" />
-
-
-
+</div>
