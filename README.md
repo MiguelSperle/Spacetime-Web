@@ -17,7 +17,19 @@ Se você quer usar este site, você deve ter o backend instalado no seu pc, roda
 
 The application was developed in React, using TypeScript, TailwindCSS, Next.js and other libs. it consumes a REST API, that allows, create, register, edit and delete memories.
 
-<h2>File .env on frontend project</h2>
+<h2>Remember</h2>
+
+If you wanna use this site, you must have the backend installed in your computer, running and you must have this reposity installed too.
+
+<h2>Built with</h2>
+
+<ul>
+  <li>Next JS</li>
+  <li>TypeScript</li>
+  <li>TailwindCSS</li>
+</ul>
+
+<h2>File .env on Web project</h2>
 
 You must get the client_id of on your Oauth App (web).
 
@@ -47,12 +59,6 @@ npm install or yarn install
 ```
 npm run dev / yarn run dev
 ```
-
-
-<h2>Remember</h2>
-
-If you wanna use this site, you must have the backend installed in your computer, running and you must have this reposity installed too.
-
 
 <h2>Screenshots</h2>
 <div width="100%" align="center">
