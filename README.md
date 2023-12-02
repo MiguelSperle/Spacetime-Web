@@ -42,12 +42,12 @@ NEXT_PUBLIC_GITHUB_CLIENT_ID=123456789 ``` This number is example ```
 
 ⌨ Clone the repository
 ```
-git clone https://github.com/MiguelSperle/Frontend-web-spacetime.git
+git clone https://github.com/MiguelSperle/Spacetime-Web.git
 ```
 
 📂 Access at folder
 ```
-cd Frontend-web-spacetime
+cd Spacetime-Web
 ```
 
 📡 install dependencies
