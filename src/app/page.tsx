@@ -52,9 +52,6 @@ export default async function Home(props: any) {
               height={280}
               alt=""
             />
-            {/* <p className="2xl: text-lg leading-relaxed text-gray-100">
-              {memory.excerpt}
-            </p> */}
             <EditContent
               coverUrlMemory={memory.coverUrl}
               idMemory={memory.id}
